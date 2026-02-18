@@ -1,94 +1,93 @@
 # Kedar Ghostekar
 
-Blockchain Developer • AI Builder • Full Stack Engineer  
-Engineering trust systems & intelligent applications.
+AI/ML Engineer • Web3 Developer • Intelligent Systems Builder  
+
+Engineering decentralized intelligence & secure prediction systems.
 
 📍 India  
-🚀 Currently Building: VeriTrust  
-💼 Open to Blockchain / Full Stack / Backend Roles  
+🎓 B.Tech in AI/ML  
+🚀 Currently Building: VeriTrust (Blockchain-based trust infrastructure)
 
 ---
 
-## ⚡ Highlights
+## ⚡ Core Identity
 
-• Built decentralized certificate verification platform on Ethereum  
-• Developed desktop AI assistant (Jarvis-style pre-trained model)  
-• Designed ML-powered prediction systems with API integrations  
-• Created scalable full-stack platforms (mental health, rental, quiz)
+• AI/ML-focused system architect  
+• Smart contract & decentralized verification builder  
+• Backend-heavy application developer  
+• Model deployment & API integration specialist  
 
 ---
 
-## 🧠 Core Stack
+## 🧠 AI / ML Expertise
 
-Solidity • Ethereum • React • Node.js • Python • Flask • JavaScript • MongoDB • SQL
+Machine Learning • Model Deployment • API Integration  
+Supervised Learning • Prediction Systems • Data Processing  
+Flask APIs • Python Automation • NLP-based Systems  
+
+---
+
+## ⛓ Web3 Stack
+
+Solidity • Ethereum • Smart Contracts  
+Web3.js • MetaMask Integration  
+Decentralized Authentication Logic  
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔐 VeriTrust  
-Decentralized certificate verification system.  
-Prevents impersonation using smart contracts & multi-institution verifier model.  
+Decentralized certificate verification protocol.  
+Multi-institution validator system preventing impersonation.  
+Immutable blockchain-based record security.  
 **Tech:** Solidity • Ethereum • React • Node.js  
 
 ---
 
 ### 🤖 Eklavya – AI Desktop Assistant  
-Pre-trained intelligent assistant (Jarvis-inspired).  
-Voice-driven desktop automation & command execution.  
-**Tech:** Python • NLP • Desktop Integration  
+Jarvis-inspired pre-trained intelligent system.  
+Voice-triggered desktop automation & execution engine.  
+**Tech:** Python • NLP • Automation  
 
 ---
 
-### 🌍 AQI & Temperature Monitoring Web App  
-Single-page environmental dashboard.  
-Displays live air quality index & temperature data.  
-**Tech:** JavaScript • API Integration • Frontend UI  
+### 🌸 Iris Flower Predictor (API Deployed)  
+Machine learning inference exposed through API integration.  
+Real-time classification system.  
+**Tech:** Python • ML • API Architecture  
 
 ---
 
-### 🏦 Bank Server Trial System  
-Backend simulation of core banking operations.  
-Transaction handling & server-side logic architecture.  
-**Tech:** Backend Logic • Database Handling  
+### 💰 Loan Approval Predictor  
+Pre-built ML functions integrated into prediction workflow.  
+Structured data processing & evaluation.  
 
 ---
 
-### 🌸 Iris Flower Predictor (API Based)  
-ML model integrated via API to predict iris species.  
-Clean UI + model inference pipeline.  
-**Tech:** Python • ML Model • API Integration  
+### 🌍 Environmental Monitoring Dashboard  
+Live AQI & temperature display using external APIs.  
+Single-page dynamic UI architecture.  
 
 ---
 
-### 💰 Loan Eligibility Predictor  
-Predicts loan approval using pre-built ML functions.  
-Demonstrates practical ML deployment logic.  
-**Tech:** Python • ML • Data Processing  
+## 🏗 Full Stack Systems
+
+• Mental Health Platform (complete service-based system)  
+• Rental Estate Finder (listing & search architecture)  
+• Online Quiz Engine (dynamic scoring backend)  
+• Bank Server Trial (core transaction simulation)
 
 ---
 
-### 🧠 Full Mental Health Platform  
-Complete support-based web platform.  
-Structured UI, service sections & engagement features.  
-**Tech:** Full Stack Development  
+## 🎯 Focus Areas 2026
+
+• Decentralized AI Systems  
+• Blockchain-backed data integrity  
+• Secure model deployment pipelines  
+• Smart contract verification mechanisms  
 
 ---
-
-### 🏠 Rented Estate Finder  
-Property listing & rental discovery platform.  
-Search filtering & listing logic.  
-**Tech:** Full Stack • Database  
-
----
-
-### 📝 Online Quiz Platform  
-Dynamic quiz generation system.  
-Scoring logic & structured backend handling.  
-**Tech:** JavaScript • Backend Logic  
-
----
-
 ## 📊 GitHub Activity
 
 (Add GitHub stats card here using dark theme)
