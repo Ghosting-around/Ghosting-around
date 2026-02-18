@@ -1,4 +1,4 @@
-# Malhar Gandre
+# Kedar Ghostekar
 
 Blockchain Developer • AI Builder • Full Stack Engineer  
 Engineering trust systems & intelligent applications.
@@ -106,9 +106,8 @@ Scoring logic & structured backend handling.
 
 ## 📫 Connect
 
-LinkedIn: (Add Link)  
-Email: (Add Email)
-
+LinkedIn: https://www.linkedin.com/in/kedar-ghostekar-2003a5314/
+Email: ghostekarkedar@gmail.com
 ---
 
 "Building systems that think. Securing systems that matter."
