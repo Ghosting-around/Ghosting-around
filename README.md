@@ -1,6 +1,8 @@
 # Kedar Ghostekar
 
-![download_20260219_162618_0000](https://github.com/user-attachments/assets/050e85ad-916c-4dbe-8fb6-edf23577c7e3)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/050e85ad-916c-4dbe-8fb6-edf23577c7e3" width="100%" />
+</p>
 
 AI/ML Engineer • Web3 Developer • Intelligent Systems Builder  
 
