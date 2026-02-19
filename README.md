@@ -1,5 +1,5 @@
 # Kedar Ghostekar
-
+<img src="URL" width="100%">
 ![download_20260219_162618_0000](https://github.com/user-attachments/assets/050e85ad-916c-4dbe-8fb6-edf23577c7e3)
 
 AI/ML Engineer • Web3 Developer • Intelligent Systems Builder  
@@ -108,6 +108,8 @@ Single-page dynamic UI architecture.
 ## 📫 Connect
 
 LinkedIn: https://www.linkedin.com/in/kedar-ghostekar-2003a5314/
+
+
 Email: ghostekarkedar@gmail.com
 ---
 
